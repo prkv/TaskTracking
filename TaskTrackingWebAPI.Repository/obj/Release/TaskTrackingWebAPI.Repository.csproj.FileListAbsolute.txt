@@ -1,0 +1,13 @@
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\TaskTrackingWebAPI.Repository.dll.config
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\TaskTrackingWebAPI.Repository.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\TaskTrackingWebAPI.Repository.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\EntityFramework.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\TaskTrackingWebAPI.Core.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\TaskTrackingWebAPI.Core.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\EntityFramework.xml
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\obj\Release\TaskTrackingWebAPI.Repository.csprojResolveAssemblyReference.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\obj\Release\TaskTrackingWebAPI.Repository.csproj.CoreCompileInputs.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\obj\Release\TaskTrackingWebAPI.Repository.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Repository\obj\Release\TaskTrackingWebAPI.Repository.pdb

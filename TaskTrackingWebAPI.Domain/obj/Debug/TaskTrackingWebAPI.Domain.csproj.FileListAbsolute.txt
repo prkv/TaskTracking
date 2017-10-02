@@ -1,0 +1,16 @@
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Domain.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Core.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Core.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.csprojResolveAssemblyReference.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Domain.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Core.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\bin\Debug\TaskTrackingWebAPI.Core.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.csprojResolveAssemblyReference.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI\TaskTrackingWebAPI.Domain\obj\Debug\TaskTrackingWebAPI.Domain.pdb

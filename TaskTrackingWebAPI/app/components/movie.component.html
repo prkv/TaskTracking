@@ -1,0 +1,6 @@
+﻿<div *ngIf="movieToDisplay" style="font-size:9px;" >
+    <h6>Movie Details</h6>
+    <span><b>Title</b> {{movieToDisplay.Title}}</span><br />
+    <b>Release Date:</b> <span>{{movieToDisplay.Released | date:'fullDate'}}</span><br />
+    <b>Director</b><span>{{movieToDisplay.Director}}</span><br />
+</div>

@@ -1,0 +1,8 @@
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Release\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Release\TaskTrackingWebAPI.Domain.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Release\TaskTrackingWebAPI.Core.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\bin\Release\TaskTrackingWebAPI.Core.pdb
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Release\TaskTrackingWebAPI.Domain.csprojResolveAssemblyReference.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Release\TaskTrackingWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Release\TaskTrackingWebAPI.Domain.dll
+C:\pradeep\MyProjects\TaskTrackingWebAPI.Domain\obj\Release\TaskTrackingWebAPI.Domain.pdb

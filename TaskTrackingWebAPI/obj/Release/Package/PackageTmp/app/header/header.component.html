@@ -1,0 +1,40 @@
+﻿
+
+    <div class='container'>
+        <span class="col-lg-5 pull-left">
+            <movie-app *ngIf="isLoggedIn$ | async as isLoggedIn">Loading Movies..</movie-app>
+        </span>
+        <span class="col-lg-4" >
+            <h1>Task Tracking App</h1>
+        </span>
+        <span *ngIf="isLoggedIn$ | async as isLoggedIn" class="col-lg-3 pull-right" style="color:red;">
+           
+                {{loggedInUserDetails()}}
+            
+        </span>
+    </div>
+        
+    <nav *ngIf="isLoggedIn$ | async as isLoggedIn" class='navbar navbar-inverse'>
+        <div class='container-fluid'>
+            <ul class='nav navbar-nav'>
+                <li><a [routerLink]="['home']">Home</a></li>
+                <li><a [routerLink]="['task']">Task Management</a></li>
+                <li><a href="" (click)="onLogout()">Logout</a></li>
+                
+            </ul>
+            
+        </div>
+    </nav>
+
+
+<!--<md-toolbar color="primary" *ngIf="isLoggedIn$ | async as isLoggedIn">
+    <span>
+        <img src="assets/img/angular_whiteTransparent.svg" class="angular-logo">
+        Angular NavBar + Login Example #01
+    </span>
+    <span class="fill-remaining-space"></span>
+    <button md-button>Menu Option 01</button>
+    <button md-button>Menu Option 02</button>
+    <button md-button routerLink="login">Login</button>
+    <button md-button (click)="onLogout()" *ngIf="isLoggedIn$ | async">Logout</button>
+</md-toolbar>-->
